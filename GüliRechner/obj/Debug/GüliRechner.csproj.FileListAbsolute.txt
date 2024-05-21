@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\GüliRechner\GüliRechner\bin\Debug\GüliRechner.exe.config
+C:\Users\user\source\repos\GüliRechner\GüliRechner\bin\Debug\GüliRechner.exe
+C:\Users\user\source\repos\GüliRechner\GüliRechner\bin\Debug\GüliRechner.pdb
+C:\Users\user\source\repos\GüliRechner\GüliRechner\obj\Debug\GüliRechner.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\GüliRechner\GüliRechner\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\GüliRechner\GüliRechner\obj\Debug\App.g.cs
+C:\Users\user\source\repos\GüliRechner\GüliRechner\obj\Debug\GüliRechner_MarkupCompile.cache
+C:\Users\user\source\repos\GüliRechner\GüliRechner\obj\Debug\GüliRechner_MarkupCompile.lref
+C:\Users\user\source\repos\GüliRechner\GüliRechner\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\GüliRechner\GüliRechner\obj\Debug\GüliRechner.g.resources
+C:\Users\user\source\repos\GüliRechner\GüliRechner\obj\Debug\GüliRechner.Properties.Resources.resources
+C:\Users\user\source\repos\GüliRechner\GüliRechner\obj\Debug\GüliRechner.csproj.GenerateResource.cache
+C:\Users\user\source\repos\GüliRechner\GüliRechner\obj\Debug\GüliRechner.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\GüliRechner\GüliRechner\obj\Debug\GüliRechner.exe
+C:\Users\user\source\repos\GüliRechner\GüliRechner\obj\Debug\GüliRechner.pdb

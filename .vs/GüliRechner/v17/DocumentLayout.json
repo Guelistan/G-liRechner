@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\G\u00FCliRechner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E071A325-5074-49F5-A9B5-0B04085F3EDA}|G\u00FCliRechner\\G\u00FCliRechner.csproj|c:\\users\\user\\source\\repos\\g\u00FClirechner\\g\u00FClirechner\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E071A325-5074-49F5-A9B5-0B04085F3EDA}|G\u00FCliRechner\\G\u00FCliRechner.csproj|solutionrelative:g\u00FClirechner\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E071A325-5074-49F5-A9B5-0B04085F3EDA}|G\u00FCliRechner\\G\u00FCliRechner.csproj|c:\\users\\user\\source\\repos\\g\u00FClirechner\\g\u00FClirechner\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E071A325-5074-49F5-A9B5-0B04085F3EDA}|G\u00FCliRechner\\G\u00FCliRechner.csproj|solutionrelative:g\u00FClirechner\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\G\u00FCliRechner\\G\u00FCliRechner\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "G\u00FCliRechner\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\G\u00FCliRechner\\G\u00FCliRechner\\MainWindow.xaml",
+              "RelativeToolTip": "G\u00FCliRechner\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-21T21:31:21.136Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "53c32e31-a772-4948-9859-7a074719d9b4",
+        "Display": 0,
+        "X": 846,
+        "Y": 47,
+        "Width": 1052,
+        "Height": 916,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\G\u00FCliRechner\\G\u00FCliRechner\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "G\u00FCliRechner\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\G\u00FCliRechner\\G\u00FCliRechner\\MainWindow.xaml",
+              "RelativeToolTip": "G\u00FCliRechner\\MainWindow.xaml",
+              "ViewState": "AQIAANYAAAAAAAAAAAAAANoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-21T21:31:36.465Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
